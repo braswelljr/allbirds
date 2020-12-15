@@ -1,0 +1,8 @@
+{
+  "printWidth": 80,
+  "semi": true,
+  "tabWidth": 2,
+  "jsxBracketSameLine": false,
+  "trailingComma": "all",
+  "endOfLine": "auto"
+}
